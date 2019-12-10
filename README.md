@@ -8,6 +8,6 @@ Python3
 ```
 $ git clone https://github.com/SKane315/pysearch.git
 $ cd pysearch
-$ pip install -i requirements.txt
+$ pip install -r requirements.txt
 $ pysearch.py
 ```
